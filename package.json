@@ -1,5 +1,6 @@
 {
-  "name": "uw-info474-w22",
+  "homepage" : "https://jefftu-1865504.github.io/INFO474-Assignment-01/",
+  "name": "INFO474-Assignment-01",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
